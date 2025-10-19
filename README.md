@@ -69,6 +69,6 @@ $ bundle install
 Then build Jekyll and start the site
 
 ```bash
-bundle exec jekyll build
-bundle exec jekyll serve --watch
+$ bundle exec jekyll build
+$ bundle exec jekyll serve --watch
 ```
