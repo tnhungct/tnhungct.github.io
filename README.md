@@ -42,7 +42,7 @@ If you want to create a new article, put it in folder `_posts`. The article has 
 
 First you need to install all npm packages and build source to generate the minimal `js` files. Notes: the build require Nodejs 20+.
 
-```
+```bash
 $ npm install
 $ npm run build
 ```
